@@ -1,4 +1,8 @@
-![My Profile Banner](https://drive.google.com/uc?export=view&id=1zH-xlx7Z_PMiOsHVcJNN83bvS6UHfW7o)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1zH-xlx7Z_PMiOsHVcJNN83bvS6UHfW7o " alt="Syed Farooq Insar" width="1020" height="370" style="border-radius: 12px; border: 3px solid #00d4ff; box-shadow: 0 0 20px rgba(0,212,255,0.4);">
+</p>
+
+
 
 Hi, I’m Syed Farooq Israr<br>
 <br>An aspiring Flutter Developer and AI Automation Specialist. With a strong focus on building scalable mobile experiences using Flutter and intelligent automation systems through n8n, I'm on a journey to merge beautiful app design with smart AI-driven solutions. Self-taught and highly motivated, I enjoy solving real-world problems through code and automation..<br>Currently open to collaborations, freelance gigs, or full-time roles in AI automation, no-code development, or creative tech.<br>Let's build something cool together!
